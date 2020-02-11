@@ -1,0 +1,11 @@
+Create an index.html document !
+Create a index.css style sheet
+    Add the style sheet to the html document
+
+Create an html body using the class & id attributes:
+
+Create an external div --> assign the div an ID
+    Create an inner div --> assign the div a CLASS
+
+Go to your index.css file and add height & width properties, and add some basic styling, ie, background-color, color, border(pixels, border-type, color)
+

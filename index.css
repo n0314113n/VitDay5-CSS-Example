@@ -1,20 +1,22 @@
-#myDiv {
+/* #myDiv {
     border: 1px solid red;
     background-color: blue;
     height: 10rem;
     width: 10rem;
-}
+} */
 
-ul {
-    background-color: aliceblue;
-    border: 1px dashed wheat;
-}
 
-#myList {
+/* #myList {
     background-color: tomato;
-}
+} */
 
-.items {
+/* .items {
     border: 1px dotted blanchedalmond;
     background-color: purple;
+} */
+
+.material-icons {
+    border: 1px solid purple;
+    height: 50vh;
+    width: 50vw;
 }
