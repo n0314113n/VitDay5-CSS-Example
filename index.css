@@ -1,0 +1,20 @@
+#myDiv {
+    border: 1px solid red;
+    background-color: blue;
+    height: 10rem;
+    width: 10rem;
+}
+
+ul {
+    background-color: aliceblue;
+    border: 1px dashed wheat;
+}
+
+#myList {
+    background-color: tomato;
+}
+
+.items {
+    border: 1px dotted blanchedalmond;
+    background-color: purple;
+}
