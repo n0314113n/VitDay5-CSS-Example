@@ -1,14 +1,15 @@
-/* #myDiv {
-    border: 1px solid red;
-    background-color: blue;
+#myDiv {
+    border: 10px solid white;
+    background-color: teal;
     height: 10rem;
-    width: 10rem;
-} */
+    width: 100rem;
+}
 
 
 /* #myList {
-    background-color: tomato;
+    background-color: coral;
 } */
+
 
 /* .items {
     border: 1px dotted blanchedalmond;
@@ -16,7 +17,7 @@
 } */
 
 .material-icons {
-    border: 1px solid purple;
+    border: 5px solid teal;
     height: 50vh;
     width: 50vw;
 }
